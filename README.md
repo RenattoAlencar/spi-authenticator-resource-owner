@@ -1,0 +1,1 @@
+# spi-authenticator-resource-owner
